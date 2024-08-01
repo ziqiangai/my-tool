@@ -9,7 +9,7 @@
     {
       "ext": ["udoc"],
       "name": "CollaDocFile",
-      "description": "CollaDoc File",
+      "description": "CollaDoc File A",
       "role": "Editor"
     },
     {
@@ -40,6 +40,7 @@
     "installerHeaderIcon": "build/icons/icon.ico",
     "createDesktopShortcut": true,
     "createStartMenuShortcut": true,
+    "include": "build/script/installer.nsh",
     "shortcutName": "MyTool"
   },
   "publish": [
