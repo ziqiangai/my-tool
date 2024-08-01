@@ -5,6 +5,13 @@
   "directories": {
     "output": "out"
   },
+  "fileAssociations": [
+    {
+      "ext": ["udoc", "uxls"],
+      "name": "Plain Text",
+      "role": "Editor"
+    }
+  ],
   "asar": true,
   "files": [
     "**/*",
