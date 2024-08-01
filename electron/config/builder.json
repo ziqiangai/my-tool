@@ -7,8 +7,13 @@
   },
   "fileAssociations": [
     {
-      "ext": ["udoc", "uxls"],
-      "name": "Plain Text",
+      "ext": ["udoc"],
+      "name": "CollaDocFile",
+      "role": "Editor"
+    },
+    {
+      "ext": ["uxls"],
+      "name": "CollaGridFile",
       "role": "Editor"
     }
   ],
