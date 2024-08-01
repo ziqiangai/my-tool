@@ -9,11 +9,13 @@
     {
       "ext": ["udoc"],
       "name": "CollaDocFile",
+      "description": "CollaDoc File",
       "role": "Editor"
     },
     {
       "ext": ["uxls"],
       "name": "CollaGridFile",
+      "description": "Colla Grid File",
       "role": "Editor"
     }
   ],
